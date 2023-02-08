@@ -45,7 +45,7 @@ extension UIColor {
     public static var themeJacob: UIColor { color(dark: .themeYellowD, light: .themeYellowL) }
     public static var themeRemus: UIColor { color(dark: .themeGreenD, light: .themeGreenL) }
     public static var themeLucian: UIColor { color(dark: .themeRedD, light: .themeRedL) }
-    public static var themeLeah: UIColor { color(dark: .themeSteelLight, light: .themeSteelDark) }
+    public static var themeLeah: UIColor = .white // { color(dark: .themeSteelLight, light: .themeSteelDark) }
     public static var themeJeremy: UIColor { color(dark: .themeSteel20, light: .themeSteelLight) }
     public static var themeElena: UIColor { color(dark: .themeSteel20, light: .themeLightGray) }
     public static var themeLawrence: UIColor { color(dark: .themeSteelDark, light: .themeWhite) }
