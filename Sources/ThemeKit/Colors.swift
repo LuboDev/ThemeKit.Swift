@@ -2,7 +2,7 @@ import UIKit
 import UIExtensions
 
 extension UIColor {
-    public static let themeYellowD = UIColor(hex: 0xffa800)
+    public static let themeYellowD = UIColor(hex: 0xEDD502)
     public static let themeYellowL = UIColor(hex: 0xff8a00)
     public static let themeGreenD = UIColor(hex: 0x05c46b)
     public static let themeGreenL = UIColor(hex: 0x04ad5f)
@@ -28,8 +28,8 @@ extension UIColor {
     public static let themeSteel20 = UIColor(hex: 0x73798c, alpha: 0.2)
     public static let themeSteel30 = UIColor(hex: 0x73798c, alpha: 0.3)
     public static let themeGray50 = UIColor(hex: 0x808085, alpha: 0.5)
-    public static let themeYellow50 = UIColor(hex: 0xffa800, alpha: 0.5)
-    public static let themeYellow20 = UIColor(hex: 0xffa800, alpha: 0.2)
+    public static let themeYellow50 = UIColor(hex: 0xEDD502, alpha: 0.5)
+    public static let themeYellow20 = UIColor(hex: 0xEDD502, alpha: 0.2)
     public static let themeGreen50 = UIColor(hex: 0x05c46b, alpha: 0.5)
     public static let themeRed50 = UIColor(hex: 0xf43a4f, alpha: 0.5)
     public static let themeLawrencePressedD = UIColor(hex: 0x353842)
